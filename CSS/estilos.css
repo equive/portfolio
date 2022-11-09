@@ -40,8 +40,11 @@ footer{
     min-height: 100px; 
     text-align: center;
     padding-top: 50px;
-    padding-top: 50px;
+    padding-bottom: 50px;
 }
 .educacion{
     margin-bottom: 100px;
+}
+.secciones{
+    margin-bottom: 20px;
 }
