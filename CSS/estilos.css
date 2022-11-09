@@ -1,0 +1,47 @@
+.me{
+    width: 250px;
+    border-radius: 50%;
+}
+#encabezado{
+    margin-top: 20px;
+}
+p{
+    text-align: justify;
+}
+p, h1, h2 {
+    font-family: 'Source Code Pro', monospace;
+}
+h1, h2{
+    color: darkblue;
+}
+
+p.descripcion {
+    margin-top: 50px;
+    margin-bottom: 50px;
+}
+p.seccion {
+    font-size: 24px;
+    color: darkblue;
+}
+.porcentajef{
+    background-color: darkgray;
+    border-radius: 10px;
+    margin-bottom: 25px;
+}
+.porcentaje{
+    background-color: darkblue;
+    border-radius: 10px;
+    color: aliceblue;
+    text-align: center;
+}
+footer{
+    background-color: darkblue;
+    color: aliceblue;
+    min-height: 100px; 
+    text-align: center;
+    padding-top: 50px;
+    padding-top: 50px;
+}
+.educacion{
+    margin-bottom: 100px;
+}
